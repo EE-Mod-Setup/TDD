@@ -2,7 +2,7 @@ BACKUP ~TDD/backup~
 
 AUTHOR ~Max and Minto, Horred The Plague (WeiDU), King Diamond (WeiDU revision), Hoppy (Further updates)~ NO_IF_EVAL_BUG
 
-VERSION ~v1.14~
+VERSION ~v1.15~
 
 AUTO_TRA ~TDD/Language/%s~
 
