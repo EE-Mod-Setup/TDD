@@ -1,25 +1,25 @@
 @0    = ~Was wollt Ihr abheben?~
-@1    = ~Eine Stahlmünze.~
-@2    = ~Eine Eisenmünze.~
+@1    = ~Eine StahlmÃ¼nze.~
+@2    = ~Eine EisenmÃ¼nze.~
 
-@3    = ~Eine Bronzemünze.~
-@4    = ~Eine Münze.~
+@3    = ~Eine BronzemÃ¼nze.~
+@4    = ~Eine MÃ¼nze.~
 
-@5    = ~Eine Silbermünze.~
-@6    = ~Eine Kupfermünze.~
+@5    = ~Eine SilbermÃ¼nze.~
+@6    = ~Eine KupfermÃ¼nze.~
 
-@7    = ~Eine Platinmünze.~
+@7    = ~Eine PlatinmÃ¼nze.~
 
 @8    = ~Keine Abhebungen heute, mein Freund. Ich habe nur vorbeigeschaut.~
 @9    = ~Ich wollte etwas abheben.~
-@10   = ~Ein Stahlstück. Hier, Bitte schön.~
-@11   = ~Hier ist Eure Eisenmünze.~
-@12   = ~Bitte schön. Ein schönes Bronzestück für Euch.~
-@13   = ~Ah, hier ist es... ein Goldstück.~
-@14   = ~Ich habe hier ein sehr glänzendes für Euch... Bitte sehr.~
+@10   = ~Ein StahlstÃ¼ck. Hier, Bitte schÃ¶n.~
+@11   = ~Hier ist Eure EisenmÃ¼nze.~
+@12   = ~Bitte schÃ¶n. Ein schÃ¶nes BronzestÃ¼ck fÃ¼r Euch.~
+@13   = ~Ah, hier ist es... ein GoldstÃ¼ck.~
+@14   = ~Ich habe hier ein sehr glÃ¤nzendes fÃ¼r Euch... Bitte sehr.~
 
-@15   = ~Heh... Ich werde Euch alles geben, wenn Ihr möchtet... aber, äh... hier ist es ja. Ein Kupferstück.~
-@16   = ~Ihr wollt eine grosse Auszahlung, nehme ich an? Sehr schön, hier ist Euer Platin.~
-@17   = ~Natürlich, natürlich. Könntet Ihr wohl zur Seite treten? Es sind auch noch andere Kunden da.~
+@15   = ~Heh... Ich werde Euch alles geben, wenn Ihr mÃ¶chtet... aber, Ã¤h... hier ist es ja. Ein KupferstÃ¼ck.~
+@16   = ~Ihr wollt eine grosse Auszahlung, nehme ich an? Sehr schÃ¶n, hier ist Euer Platin.~
+@17   = ~NatÃ¼rlich, natÃ¼rlich. KÃ¶nntet Ihr wohl zur Seite treten? Es sind auch noch andere Kunden da.~
 
-@18   = ~Redet mit meinem Kollegen da drüben. Er kümmert sich um alle Einzahlungen.~
+@18   = ~Redet mit meinem Kollegen da drÃ¼ben. Er kÃ¼mmert sich um alle Einzahlungen.~

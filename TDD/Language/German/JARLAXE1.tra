@@ -1,34 +1,34 @@
 @0    = ~Hey! Was treibt Ihr Euch hier draussen herum? Wartet eine Minute, Ihr seid keine Mitglieder der Bregan D'aerth! Aber, wartet... ihr seid Drow!~ [JARL1]
-@1    = ~Ähh... ja... wir sind... ähh... Heimatlose, die an die Oberfläche geflohen sind.~
+@1    = ~Ã„hh... ja... wir sind... Ã¤hh... Heimatlose, die an die OberflÃ¤che geflohen sind.~
 
-@2    = ~Noch mehr Flüchtlinge, wie? Und warum treibt ihr Euch hier herum, Drow?~ [JARL2]
-@3    = ~Wir haben nur nach einem Ort gesucht, an dem wir der Verfolgung entgehen können.~
-@4    = ~Wir suchen nach Akzeptanz an der Oberfläche. Wir haben Gerüchte gehört, dass ein grosser Drow-Anführer sich hier in diesen Wäldern befinden soll. Und so haben wir beschlossen, nach ihm zu suchen.~
+@2    = ~Noch mehr FlÃ¼chtlinge, wie? Und warum treibt ihr Euch hier herum, Drow?~ [JARL2]
+@3    = ~Wir haben nur nach einem Ort gesucht, an dem wir der Verfolgung entgehen kÃ¶nnen.~
+@4    = ~Wir suchen nach Akzeptanz an der OberflÃ¤che. Wir haben GerÃ¼chte gehÃ¶rt, dass ein grosser Drow-AnfÃ¼hrer sich hier in diesen WÃ¤ldern befinden soll. Und so haben wir beschlossen, nach ihm zu suchen.~
 
-@5    = ~Dann ist Eure Suche erfolgreich gewesen. Ich bin Jarlaxle, Anführer der Bregan D'aerth Söldnergruppe. Aus welchem Grund habt Ihr nach mir gesucht?~
+@5    = ~Dann ist Eure Suche erfolgreich gewesen. Ich bin Jarlaxle, AnfÃ¼hrer der Bregan D'aerth SÃ¶ldnergruppe. Aus welchem Grund habt Ihr nach mir gesucht?~
 
 @6    = ~Wir wollten uns Euch anschliessen.~
-@7    = ~Die Mitglieder der Bregan D'aerth werden alle sehr sorgfältig ausgewählt. Bevor jemand aufgenommen wird, muss er mir seinen Wert beweisen.~
-@8    = ~Dann sollen wir Euch also unseren Wert und unsere Loyalität beweisen?~
-@9    = ~Dann sollen wir für Euch eine Aufgabe erledigen, um unsere Fähigkeiten zu demonstrieren?~
-@10   = ~Loyaltät ist eine Voraussetzung. Wenn ihr Mitglieder werden wollt, dann müsst Ihr schon eine besondere Aufgabe erledigen.~ [JARL3]
-@11   = ~Ich werde jede erfüllbare Aufgabe erledigen.~
+@7    = ~Die Mitglieder der Bregan D'aerth werden alle sehr sorgfÃ¤ltig ausgewÃ¤hlt. Bevor jemand aufgenommen wird, muss er mir seinen Wert beweisen.~
+@8    = ~Dann sollen wir Euch also unseren Wert und unsere LoyalitÃ¤t beweisen?~
+@9    = ~Dann sollen wir fÃ¼r Euch eine Aufgabe erledigen, um unsere FÃ¤higkeiten zu demonstrieren?~
+@10   = ~LoyaltÃ¤t ist eine Voraussetzung. Wenn ihr Mitglieder werden wollt, dann mÃ¼sst Ihr schon eine besondere Aufgabe erledigen.~ [JARL3]
+@11   = ~Ich werde jede erfÃ¼llbare Aufgabe erledigen.~
 @12   = ~Seid Ihr sicher, dass ich nicht gleich Mitglied werden kann?~
 
-@13   = ~Nicht so schnell! Meine Augen beginnen zu brennen und Oberflächenbewohner könnten zuhören. Lasst Euch sagen, sobald wir unser Heim betreten und Ihr Eure Aufgabe nicht erfüllt, werde ich Euch persönlich töten.~
+@13   = ~Nicht so schnell! Meine Augen beginnen zu brennen und OberflÃ¤chenbewohner kÃ¶nnten zuhÃ¶ren. Lasst Euch sagen, sobald wir unser Heim betreten und Ihr Eure Aufgabe nicht erfÃ¼llt, werde ich Euch persÃ¶nlich tÃ¶ten.~
 
-@14   = ~Versucht es. Ich werde Euch Eure Arme herausreissen und Euch damit zu Tode prügeln.~
+@14   = ~Versucht es. Ich werde Euch Eure Arme herausreissen und Euch damit zu Tode prÃ¼geln.~
 
-@15   = ~Natürlich.~
+@15   = ~NatÃ¼rlich.~
 
 @16   = ~Was war das?~
 
 @17   = ~Nichts. Ich bin absolut Eurer Meinung, Jarlaxle.~
 @18   = ~Wir werden gleich gehen.~
-@19   = ~Wo ist der Eingang? Ich sehe weder eine Höhle, noch einen Tunnel in diesem Wald.~
-@20   = ~Ha ha! Er ist da... Er war schon immer da, mein Freund... unsichtbar für Neugierige.~
+@19   = ~Wo ist der Eingang? Ich sehe weder eine HÃ¶hle, noch einen Tunnel in diesem Wald.~
+@20   = ~Ha ha! Er ist da... Er war schon immer da, mein Freund... unsichtbar fÃ¼r Neugierige.~
 
-@21   = ~Nein. Eine Aufgabe muss erfüllt werden. Wenn nicht, werdet Ihr hier sterben.~
+@21   = ~Nein. Eine Aufgabe muss erfÃ¼llt werden. Wenn nicht, werdet Ihr hier sterben.~
 
 @22   = ~Na gut. Wie lautet die Aufgabe?~
-@23   = ~Dann schätze ich, werde ich heute meinen Tod finden!~
+@23   = ~Dann schÃ¤tze ich, werde ich heute meinen Tod finden!~

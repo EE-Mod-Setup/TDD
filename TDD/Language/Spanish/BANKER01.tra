@@ -1,4 +1,4 @@
-@0    = ~¿Cuánto deseáis depositar?~
+@0    = ~Â¿CuÃ¡nto deseÃ¡is depositar?~
 @1    = ~Una pieza de acero.~
 @2    = ~Una pieza de hierro.~
 @3    = ~Una pieza de bronce.~
@@ -7,15 +7,15 @@
 @6    = ~Una pieza de cobre.~
 @7    = ~Una pieza de platino.~
 @8    = ~Lo siento, pero esta vez no tengo nada para depositar.~
-@9    = ~Me gustaría sacar algo de dinero.~
-@10   = ~¡Una de acero! Con su permiso la cogeré.~
-@11   = ~Excelente. Gracias, y que tengáis un buen dia.~
-@12   = ~Excelente elección. Dejadme que la ponga aquí...~
-@13   = ~Bah, oro... Desearía que su valor volviera a subir otra vez. Es un metal realmente bonito.~
-@14   = ~¿Plata, eso es todo? ¿Estáis seguro? Muy bien, una de plana entonces.~
-~¿Plata, eso es todo? ¿Estáis segura? Muy bien, una de plana entonces.~
-@15   = ~Ja, si estoy llegara a valer algo algún día... de todos modos, dejadla aquí. Apenas afectará a vuestra cuenta, os lo aseguro.~
-@16   = ~oh...jajajajaaa... sois rico, ¿verdad? Debéis confiar mucho en mí para confiarme una de platino... pero, ejem... sí, estará segura conmigo. ¡Dejadla aquí, rápido!~
-~oh...jajajajaaa... sois rica, ¿verdad? Debéis confiar mucho en mí para confiarme una de platino... pero, ejem... sí, estará segura conmigo. ¡Dejadla aquí, rápido!~
-@17   = ~Moveos entonces. Estáis haciendo esperar a los demás clientes.~
-@18   = ~Tenéis que hablar con mi de hablar con mi socio. Él lleva todas las extracciones.~
+@9    = ~Me gustarÃ­a sacar algo de dinero.~
+@10   = ~Â¡Una de acero! Con su permiso la cogerÃ©.~
+@11   = ~Excelente. Gracias, y que tengÃ¡is un buen dia.~
+@12   = ~Excelente elecciÃ³n. Dejadme que la ponga aquÃ­...~
+@13   = ~Bah, oro... DesearÃ­a que su valor volviera a subir otra vez. Es un metal realmente bonito.~
+@14   = ~Â¿Plata, eso es todo? Â¿EstÃ¡is seguro? Muy bien, una de plana entonces.~
+~Â¿Plata, eso es todo? Â¿EstÃ¡is segura? Muy bien, una de plana entonces.~
+@15   = ~Ja, si estoy llegara a valer algo algÃºn dÃ­a... de todos modos, dejadla aquÃ­. Apenas afectarÃ¡ a vuestra cuenta, os lo aseguro.~
+@16   = ~oh...jajajajaaa... sois rico, Â¿verdad? DebÃ©is confiar mucho en mÃ­ para confiarme una de platino... pero, ejem... sÃ­, estarÃ¡ segura conmigo. Â¡Dejadla aquÃ­, rÃ¡pido!~
+~oh...jajajajaaa... sois rica, Â¿verdad? DebÃ©is confiar mucho en mÃ­ para confiarme una de platino... pero, ejem... sÃ­, estarÃ¡ segura conmigo. Â¡Dejadla aquÃ­, rÃ¡pido!~
+@17   = ~Moveos entonces. EstÃ¡is haciendo esperar a los demÃ¡s clientes.~
+@18   = ~TenÃ©is que hablar con mi de hablar con mi socio. Ã‰l lleva todas las extracciones.~

@@ -1,4 +1,4 @@
-@0     = ~Etes-vous prêt à partir, <CHARNAME> ?~ ~Etes-vous prête à partir, <CHARNAME> ?~
+@0     = ~Etes-vous prÃªt Ã  partir, <CHARNAME> ?~ ~Etes-vous prÃªte Ã  partir, <CHARNAME> ?~
 @1     = ~Oui, allons-y.~
 @2     = ~Non, donnez-moi juste quelques minutes de plus.~
 @3     = ~Merveilleux. Allons-y...~

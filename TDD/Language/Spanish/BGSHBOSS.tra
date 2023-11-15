@@ -1,24 +1,24 @@
-@0    = ~Bienvenidos, aventureros. Soy Amroch, y me gustaría preguntaros si podríais buscar al capitán del guardia del pueblo.~
-@1    = ~Tendréis que contarme más de lo que se necesita y explicarnos la situación, Amroch.~
-@2    = ~En verdad, creo que no. Ya tengo bastantes cosas que hacer ahora mismo. Tendréis que encontrar a otro que lo haga.~
-@3    = ~Excelente, nuestra situación ahora es esta. Nuestro general, Ivralos, salió de camino a Athkatla hace cuatro dias para aclarar el origen de nuestro cese en el comercio. Dependemos del puerto de Athkatla para obtener nuestros beneficios y exportar, y a Riatavin no le convine perder los privilegios. Para asegurar que no los perdemos, fue él mismo en vez de enviar a un mensajero.~
-@4    = ~Ya, el guardia de afuera me dijo algo parecido. Así que, ¿qué hace falta exactamente?~
-@5    = ~De acuerdo. De todos modos tampoco parecíais lo bastante bueno para la tarea.~
-~De acuerdo. De todos modos tampoco parecíais lo bastante buena para la tarea.~
-@6    = ~¿No lo bastante bueno, decís? Muy bien. Demostraré mi valía yos escucharé un poco más.~
-~¿No lo bastante buena, decís? Muy bien. Demostraré mi valía y os escucharé un poco más.~
-@7    = ~Imagino que no. Regresaré si me siento capaz de hacer el trabajo.~
-@8    = ~¿¡Qué!? ¿El guardia de afuera os ha hablado sobre esto? ¿Qué más os ha dicho? ¡Hablad!~ 
-@9    = ~Calmaos. No dijo nada más.~
-@10   = ~Parece como si tuviérais algo terribe que ocultar. ¿Qué podría haberme dicho para enfadaros tanto?~
-@11   = ~Disculpadme por el arranque de furia. Simplemente es que... (sudando)... la presión se va amontonando.~
-@12   = ~Lo comprendo. Decidme qué hace falta.~
-@13   = ~El capitán debería encontrarse en el Distrito Gubernamental con el jefe de exportaciones de Athkatla, Aramir Estel. Sugiero que viajéis a Athkatla, y habléis con el guardián de la puerta. Comprobad si han llegado a la ciudad. Si no lo han hecho, entonces buscad a Aramir y comprobad si él tiene alguna información sobre la situación.~
-@14   = ~Comprendo la tarea. Saldré hacia Athkatla enseguida.~
-@15   = ~Todo lo que resta es colocar un pequeño encantamiento sobre vosotros.~
-@16   = ~¿Qué tipo de encantamiento es y para qué sirve?~
+@0    = ~Bienvenidos, aventureros. Soy Amroch, y me gustarÃ­a preguntaros si podrÃ­ais buscar al capitÃ¡n del guardia del pueblo.~
+@1    = ~TendrÃ©is que contarme mÃ¡s de lo que se necesita y explicarnos la situaciÃ³n, Amroch.~
+@2    = ~En verdad, creo que no. Ya tengo bastantes cosas que hacer ahora mismo. TendrÃ©is que encontrar a otro que lo haga.~
+@3    = ~Excelente, nuestra situaciÃ³n ahora es esta. Nuestro general, Ivralos, saliÃ³ de camino a Athkatla hace cuatro dias para aclarar el origen de nuestro cese en el comercio. Dependemos del puerto de Athkatla para obtener nuestros beneficios y exportar, y a Riatavin no le convine perder los privilegios. Para asegurar que no los perdemos, fue Ã©l mismo en vez de enviar a un mensajero.~
+@4    = ~Ya, el guardia de afuera me dijo algo parecido. AsÃ­ que, Â¿quÃ© hace falta exactamente?~
+@5    = ~De acuerdo. De todos modos tampoco parecÃ­ais lo bastante bueno para la tarea.~
+~De acuerdo. De todos modos tampoco parecÃ­ais lo bastante buena para la tarea.~
+@6    = ~Â¿No lo bastante bueno, decÃ­s? Muy bien. DemostrarÃ© mi valÃ­a yos escucharÃ© un poco mÃ¡s.~
+~Â¿No lo bastante buena, decÃ­s? Muy bien. DemostrarÃ© mi valÃ­a y os escucharÃ© un poco mÃ¡s.~
+@7    = ~Imagino que no. RegresarÃ© si me siento capaz de hacer el trabajo.~
+@8    = ~Â¿Â¡QuÃ©!? Â¿El guardia de afuera os ha hablado sobre esto? Â¿QuÃ© mÃ¡s os ha dicho? Â¡Hablad!~ 
+@9    = ~Calmaos. No dijo nada mÃ¡s.~
+@10   = ~Parece como si tuviÃ©rais algo terribe que ocultar. Â¿QuÃ© podrÃ­a haberme dicho para enfadaros tanto?~
+@11   = ~Disculpadme por el arranque de furia. Simplemente es que... (sudando)... la presiÃ³n se va amontonando.~
+@12   = ~Lo comprendo. Decidme quÃ© hace falta.~
+@13   = ~El capitÃ¡n deberÃ­a encontrarse en el Distrito Gubernamental con el jefe de exportaciones de Athkatla, Aramir Estel. Sugiero que viajÃ©is a Athkatla, y hablÃ©is con el guardiÃ¡n de la puerta. Comprobad si han llegado a la ciudad. Si no lo han hecho, entonces buscad a Aramir y comprobad si Ã©l tiene alguna informaciÃ³n sobre la situaciÃ³n.~
+@14   = ~Comprendo la tarea. SaldrÃ© hacia Athkatla enseguida.~
+@15   = ~Todo lo que resta es colocar un pequeÃ±o encantamiento sobre vosotros.~
+@16   = ~Â¿QuÃ© tipo de encantamiento es y para quÃ© sirve?~
 @17   = ~Muy bien, entonces. Adelante.~
-@18   = ~Solamente es una aura que permitirá a la gente de Athkatla saber que tenéis buenas intenciones.~
-@19   = ~Entiendo. Lanzad el encantamiento entonces, y partiré.~
-@20   = ~Sabéis lo que debéis hacer. Espero que podamos recibiros de vuelta con éxito.~
-@21   = ~Antes de nada debo deciros que tenemos mucho por planificar una vez que os marchéis. Sería sabio por vuestra parte no entrar en esta casa de nuevo, ya que vamos a bloquear las entradas. Y tened cuidado... no tardéis más de dos días en llegar a Athkatla. Nuestro pueblo no podrá aguantar mucho más.~
+@18   = ~Solamente es una aura que permitirÃ¡ a la gente de Athkatla saber que tenÃ©is buenas intenciones.~
+@19   = ~Entiendo. Lanzad el encantamiento entonces, y partirÃ©.~
+@20   = ~SabÃ©is lo que debÃ©is hacer. Espero que podamos recibiros de vuelta con Ã©xito.~
+@21   = ~Antes de nada debo deciros que tenemos mucho por planificar una vez que os marchÃ©is. SerÃ­a sabio por vuestra parte no entrar en esta casa de nuevo, ya que vamos a bloquear las entradas. Y tened cuidado... no tardÃ©is mÃ¡s de dos dÃ­as en llegar a Athkatla. Nuestro pueblo no podrÃ¡ aguantar mucho mÃ¡s.~

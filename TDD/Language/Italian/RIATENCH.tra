@@ -1,21 +1,21 @@
 @0    = ~Salve, viandante. Vuoi che ti incanti un oggetto?~
-@1    = ~Si... cioË, vedi se ho qualcosa che puoi incantare.~
-@2    = ~Cos'Ë che fai?~
+@1    = ~Si... cio√®, vedi se ho qualcosa che puoi incantare.~
+@2    = ~Cos'√® che fai?~
 @3    = ~Hmm... lasciami dare un'occhiata allora... hrm...erm...~
-@4    = ~Prendo dei semplici amuleti e li incanto fornendogli propriet‡ speciali. Ad un prezzo, naturalmente. Sai, bisogna guadagnarsi da vivere.~
-@5    = ~Interessante, Potrei tornare pi˘ tardi con qualcosa e vedere quello che puoi fare.~
+@4    = ~Prendo dei semplici amuleti e li incanto fornendogli propriet√† speciali. Ad un prezzo, naturalmente. Sai, bisogna guadagnarsi da vivere.~
+@5    = ~Interessante, Potrei tornare pi√π tardi con qualcosa e vedere quello che puoi fare.~
 @6    = ~Ho qualcosa che potresti incantare?~
-@7    = ~No, non hai nessun amuleto che potrei utilizzare, come base. Se ne troverai e vorrai incantarne, allora ritorna e vedrÚ quello che posso fare per te.~
+@7    = ~No, non hai nessun amuleto che potrei utilizzare, come base. Se ne troverai e vorrai incantarne, allora ritorna e vedr√≤ quello che posso fare per te.~
 @8    = ~Si, hai una semplice collana qui. Posso incantartela se lo desideri.~
 @9    = ~Come puoi incantare?~
 @10   = ~No, ho cambiato idea. Non voglio incantare niente.~
-@11   = ~Ci sono diversi modi... te li elencherÚ per darti la possibilit‡ discegliere.~
+@11   = ~Ci sono diversi modi... te li elencher√≤ per darti la possibilit√† discegliere.~
 @12   = ~Io posso farti......
 Una collana di proiettili per 6000 monete d'oro
 Un amuleto dalla Pietra Verde di protezione mentale per 8000 monete d'oro.
 Un amuleto che dona il 5% di resistenza alla magia per 7000 monete d'oro.
 Un amuleto che dona il 10% di resistenza alla magia per 13000 monete d'oro.
-Un amuleto del Potere con protezione dal Risucchio del Livello e un 5 % di immunit‡ alla magia per 23000 monete d'oro.
+Un amuleto del Potere con protezione dal Risucchio del Livello e un 5 % di immunit√† alla magia per 23000 monete d'oro.
 Un amuleto di protezione dal veleno per 7000 monete d'oro.
 Un amuleto che dona +3 ai tiri salvezza contro soffio per 13000 monete d'oro.
 Un amuleto che dona +5 ai tiri salvezza contro metamorfosi per 16000 monete d'oro.
@@ -24,14 +24,14 @@ Un amuleto che dona +2 ai tiri salvezza contro gli incantesimi per 14000 monete 
 @14   = ~Hai una Collana di solfato di rame qui. Posso sicuramente utilizzarla.~
 @15   = ~Hai una Collana di Agni Mani... davvero un'ottima base.~
 @16   = ~Hai una Collana di ossidiana arcobaleno. Sembra promettente...~
-@17   = ~Una Collana di conchiglia di ciprea tigrata, andr‡ bene.~
-@18   = ~Una Collana d'argento, eh? Non Ë un gran che, ma sar‡ sufficiente.~
+@17   = ~Una Collana di conchiglia di ciprea tigrata, andr√† bene.~
+@18   = ~Una Collana d'argento, eh? Non √® un gran che, ma sar√† sufficiente.~
 @19   = ~Possiedi una Collana d'oro. Perfetto...~
 @20   = ~Hai una Collana di perle... molto bella e utile. Lasciami vedere...~
-@21   = ~Una Collana di lacrime di Laeral... Ë un ottimo pezzo su cui lavorare. Farebbe una base meravigliosa...~
+@21   = ~Una Collana di lacrime di Laeral... √® un ottimo pezzo su cui lavorare. Farebbe una base meravigliosa...~
 @22   = ~Hai un Amuleto di eliotropio. Eccellente.~
 @23   = ~Qualcuna di queste cose attira la tua attenzione? Quello che puoi permetterti, naturalmente. Hehehe... i maghi mi dicono sempre che i miei prezzi sono molto alti, ma loro certamente non possono fare il lavoro bene come me.~
-@24   = ~No. Magari ritornerÚ. Rimani qui.~
+@24   = ~No. Magari ritorner√≤. Rimani qui.~
 @25   = ~Mi piacerebbe avere una Collana di Proiettili.~
 @26   = ~Credo che un Amuleto dalla Pietra Verde mi sarebbe molto utile.~
 @27   = ~Un amuleto che fornisce un 5% di resistenza alla magia attira la mia attenzione.~
@@ -39,8 +39,8 @@ Un amuleto che dona +2 ai tiri salvezza contro gli incantesimi per 14000 monete 
 @29   = ~Vorrei un Amuleto del Potere.~
 @30   = ~Mi piacerebbe avere un Amuleto di Protezione dal Veleno.~
 @31   = ~Un Talismano di Protezione della Vita con un +3 ai tiri salvezza contro soffio si dimostrerebbe sicuramente utile.~
-@32   = ~Una collana con un + 5 ai tiri salvezza contro metamorfosi andr‡ bene.~
+@32   = ~Una collana con un + 5 ai tiri salvezza contro metamorfosi andr√† bene.~
 @33   = ~Vorrei un amuleto con +2 ai tiri salvezza contro gli incantesimi.~
 @34   = ~Portami un amuleto ed un po' di soldi! E noi saremo i migliori amici!~
-@35   = ~Allora sar‡ fatto.~
+@35   = ~Allora sar√† fatto.~
 

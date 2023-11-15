@@ -1,12 +1,12 @@
-@0    = ~Hola, extranjero. Soy Strumpet Huesodelarisa. ¿Puedo ayudaros en algo? ¿Quizá un artículo captaría vuestra atención?~
-~Hola, extranjera. Soy Strumpet Huesodelarisa. ¿Puedo ayudaros en algo? ¿Quizá un artículo captaría vuestra atención?~
-@1    = ~¿Qué es lo que hacéis?~
+@0    = ~Hola, extranjero. Soy Strumpet Huesodelarisa. Â¿Puedo ayudaros en algo? Â¿QuizÃ¡ un artÃ­culo captarÃ­a vuestra atenciÃ³n?~
+~Hola, extranjera. Soy Strumpet Huesodelarisa. Â¿Puedo ayudaros en algo? Â¿QuizÃ¡ un artÃ­culo captarÃ­a vuestra atenciÃ³n?~
+@1    = ~Â¿QuÃ© es lo que hacÃ©is?~
 @2    = ~No, creo que ya he visto suficiente.~
-@3    = ~¡Oh, sí! Discúlpadme. Vendo pergaminos mágicos; no muchos, pero algunos de gran valor. ¿Estáis interesado en verlos, al menos?~
-~¡Oh, sí! Discúlpadme. Vendo pergaminos mágicos; no muchos, pero algunos de gran valor. ¿Estáis interesada en verlos, al menos?~
-@4    = ~Quizás más tarde, gnomo.~
-@5    = ~Antes voy a mirar si puedo encontrarlo más barato.~
+@3    = ~Â¡Oh, sÃ­! DiscÃºlpadme. Vendo pergaminos mÃ¡gicos; no muchos, pero algunos de gran valor. Â¿EstÃ¡is interesado en verlos, al menos?~
+~Â¡Oh, sÃ­! DiscÃºlpadme. Vendo pergaminos mÃ¡gicos; no muchos, pero algunos de gran valor. Â¿EstÃ¡is interesada en verlos, al menos?~
+@4    = ~QuizÃ¡s mÃ¡s tarde, gnomo.~
+@5    = ~Antes voy a mirar si puedo encontrarlo mÃ¡s barato.~
 @6    = ~Apartaos y dejadme echar una ojeada.~
-@7    = ~De vuelta, por lo que veo. ¿Cambiasteis de opinión respecto a comprarme algo?~
-@8    = ~Sí, echaré un vistazo a ver qué tenéis.~
+@7    = ~De vuelta, por lo que veo. Â¿Cambiasteis de opiniÃ³n respecto a comprarme algo?~
+@8    = ~SÃ­, echarÃ© un vistazo a ver quÃ© tenÃ©is.~
 @9    = ~Oh... uhh... no, me he equivocado de tienda.~

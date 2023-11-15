@@ -40,6 +40,11 @@ LANGUAGE ~Spanish(Clan REO)~
          ~Spanish~
          ~TDD/Language/Spanish/setup.tra~
          ~TDD/Language/Spanish/tp2.tra~
+         
+LANGUAGE ~Chinese~
+         ~Chinese~
+         ~TDD/Language/Chinese/setup.tra~
+         ~TDD/Language/Chinese/tp2.tra~
 
 
 BEGIN @20000

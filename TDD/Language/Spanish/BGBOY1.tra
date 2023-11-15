@@ -1,8 +1,8 @@
-@0    = ~¿Hola, tenéis algo de dinero para que pueda comer?~
-@1    = ~Claro. Aquí tenéis, niño. Aseguraos de que comprais algo de comida.~
-@2    = ~Lo siento, niño. Quizás en otro momemto. Estoy corto de dinero ahora mismo.~
-~Lo siento, niño. Quizás en otro momemto. Estoy corta de dinero ahora mismo.~
+@0    = ~Â¿Hola, tenÃ©is algo de dinero para que pueda comer?~
+@1    = ~Claro. AquÃ­ tenÃ©is, niÃ±o. Aseguraos de que comprais algo de comida.~
+@2    = ~Lo siento, niÃ±o. QuizÃ¡s en otro momemto. Estoy corto de dinero ahora mismo.~
+~Lo siento, niÃ±o. QuizÃ¡s en otro momemto. Estoy corta de dinero ahora mismo.~
 @3    = ~Perdeos, condenado mendigo. No soy un alma caritativa.~
-@4    = ~¡Que os den, grandísimo avaro!~
-~¡Que os den, grandísima avara!~
-@5    = ~¡Dioses! ¡Esta noche iré a la posada a cenar!~
+@4    = ~Â¡Que os den, grandÃ­simo avaro!~
+~Â¡Que os den, grandÃ­sima avara!~
+@5    = ~Â¡Dioses! Â¡Esta noche irÃ© a la posada a cenar!~

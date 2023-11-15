@@ -1,38 +1,38 @@
-@0    = ~Hallo Wanderer. Wollt Ihr, dass ich für Euch einen Gegenstand verzaubere?~
-@1    = ~Ja... wenn ich etwas haben sollte, das Ihr verzaubern könnt.~
+@0    = ~Hallo Wanderer. Wollt Ihr, dass ich fÃ¼r Euch einen Gegenstand verzaubere?~
+@1    = ~Ja... wenn ich etwas haben sollte, das Ihr verzaubern kÃ¶nnt.~
 
 @2    = ~Was tut Ihr genau?~
 
-@3    = ~Hmm... dann lasst mich mal sehen... hm... ähm...~
-@4    = ~Ich verwende einfache Amulette und verleihe ihnen spezielle Fähigkeiten. Das kostet natürlich einiges. Man muss ja schliesslich von etwas leben.~
+@3    = ~Hmm... dann lasst mich mal sehen... hm... Ã¤hm...~
+@4    = ~Ich verwende einfache Amulette und verleihe ihnen spezielle FÃ¤higkeiten. Das kostet natÃ¼rlich einiges. Man muss ja schliesslich von etwas leben.~
 
-@5    = ~Interessant, ich werde später wieder zurückkomen und mir ansehen, was Ihr für mich tun könnt.~
+@5    = ~Interessant, ich werde spÃ¤ter wieder zurÃ¼ckkomen und mir ansehen, was Ihr fÃ¼r mich tun kÃ¶nnt.~
 
-@6    = ~Habe ich etwas, dass Ihr vielleicht verzaubern könntet?~
+@6    = ~Habe ich etwas, dass Ihr vielleicht verzaubern kÃ¶nntet?~
 
-@7    = ~Nein, Ihr habt keine Amulette, die ich als Grundstock verwenden könnte. Wenn Ihr welche finden solltet, die Ihr verzaubert haben möchtet, dann kommt zurück und ich werde sehen, was ich für Euch tun kann.~
+@7    = ~Nein, Ihr habt keine Amulette, die ich als Grundstock verwenden kÃ¶nnte. Wenn Ihr welche finden solltet, die Ihr verzaubert haben mÃ¶chtet, dann kommt zurÃ¼ck und ich werde sehen, was ich fÃ¼r Euch tun kann.~
 
-@8    = ~Ja, Ihr habt hier eine einfache Halskette. Ich kann sie für Euch verzaubern, wenn Ihr es wünscht.~
+@8    = ~Ja, Ihr habt hier eine einfache Halskette. Ich kann sie fÃ¼r Euch verzaubern, wenn Ihr es wÃ¼nscht.~
 
 @9    = ~Wie verzaubert Ihr sie denn?~
-@10   = ~Nein, ich habe es mir anders überlegt. Ich möchte nichts verzaubern lassen.~
-@11   = ~Es gibt viele Möglichkeiten... Ich werde sie Euch auflisten, um Euch einen Eindruck davon zu geben.~
+@10   = ~Nein, ich habe es mir anders Ã¼berlegt. Ich mÃ¶chte nichts verzaubern lassen.~
+@11   = ~Es gibt viele MÃ¶glichkeiten... Ich werde sie Euch auflisten, um Euch einen Eindruck davon zu geben.~
 
 @12   = ~Ich kann Euch folgendes anfertigen...
-Eine Halskette der vielen Geschosse für 6000 Goldmünzen.
-Ein Grünsteinamulett des mentalen Schutzes für 8000 Goldmünzen.
-Ein Amulett, das Euch eine 5%ige Magieresistenz für 7000 Goldmünzen gewährt.
-Ein Amulett, welches Euch eine 10%ige Magieresistenz für 13000 Goldmünzen ermöglicht.
-Ein Amulett der Macht, das vor Stufenabzug schützt und eine 5%ige magische Immunität verleiht. Für 23000 Goldmünzen.
-Für 7000 Goldmünzen erhaltet Ihr ein Amulett, das vor Gift schützt.
-Ein Amulett, welches Euch einen +3 Rettungswurf gegen Odemwaffen für 13000 Goldstücke gibt.
-Für 16000 Goldstücke könnte ich Euch ein Amulett fetigen, das Euch einen +5 Rettungswurf gegen Verwandlung verleiht.
-Und ein Amulett mit einem Rettungswurf von +2 gegen Zaubersprüche wäre für 14000 Goldstücke drin.~
+Eine Halskette der vielen Geschosse fÃ¼r 6000 GoldmÃ¼nzen.
+Ein GrÃ¼nsteinamulett des mentalen Schutzes fÃ¼r 8000 GoldmÃ¼nzen.
+Ein Amulett, das Euch eine 5%ige Magieresistenz fÃ¼r 7000 GoldmÃ¼nzen gewÃ¤hrt.
+Ein Amulett, welches Euch eine 10%ige Magieresistenz fÃ¼r 13000 GoldmÃ¼nzen ermÃ¶glicht.
+Ein Amulett der Macht, das vor Stufenabzug schÃ¼tzt und eine 5%ige magische ImmunitÃ¤t verleiht. FÃ¼r 23000 GoldmÃ¼nzen.
+FÃ¼r 7000 GoldmÃ¼nzen erhaltet Ihr ein Amulett, das vor Gift schÃ¼tzt.
+Ein Amulett, welches Euch einen +3 Rettungswurf gegen Odemwaffen fÃ¼r 13000 GoldstÃ¼cke gibt.
+FÃ¼r 16000 GoldstÃ¼cke kÃ¶nnte ich Euch ein Amulett fetigen, das Euch einen +5 Rettungswurf gegen Verwandlung verleiht.
+Und ein Amulett mit einem Rettungswurf von +2 gegen ZaubersprÃ¼che wÃ¤re fÃ¼r 14000 GoldstÃ¼cke drin.~
 
 @13   = ~Ah, Ihr habt eine Zios-besetzte Halskette dabei. Die kann ich als Basis verwenden.~
 
 @14   = ~Da habt Ihr ja sogar eine Blaustein-Halskette. Die kann ich mit Sicherheit verwenden.~
-@15   = ~Was für eine schöne Agni-Mani-Halskette... in der Tat ein guter Grundstock.~
+@15   = ~Was fÃ¼r eine schÃ¶ne Agni-Mani-Halskette... in der Tat ein guter Grundstock.~
 @16   = ~Das scheint eine Regenbogenobsidian-Halskette zu sein. Das sieht vielversprechend aus...~
 
 @17   = ~Eine Tigerkaurischneckenhaus-Kette ist auch nicht schlecht.~
@@ -41,28 +41,28 @@ Und ein Amulett mit einem Rettungswurf von +2 gegen Zaubersprüche wäre für 14000
 
 @19   = ~Ihr habt eine Goldkette. Perfekt...~
 
-@20   = ~Ihr habt eine Perlenkette... sehr schön und nützlich. Zeigt her...~
+@20   = ~Ihr habt eine Perlenkette... sehr schÃ¶n und nÃ¼tzlich. Zeigt her...~
 
-@21   = ~Halskette der Träne Laerals... das ist eine wundervolle Arbeit. Das wird eine wundervolle Basis...~
+@21   = ~Halskette der TrÃ¤ne Laerals... das ist eine wundervolle Arbeit. Das wird eine wundervolle Basis...~
 
 @22   = ~Ihr habt ein Blutsteinamulett. Ausgezeichnet.~
 
-@23   = ~Habe ich irgend etwas, das Euch ins Auge sticht? Etwas, das Ihr Euch natürlich leisten könnt. Hehehe... die Magier sagen immer, dass meine Preise viel zu hoch wären, aber sie können es auch nicht so gut wie ich.~
-@24   = ~Nein. Ich werde zurückkommen. Bleibt einfach hier.~
+@23   = ~Habe ich irgend etwas, das Euch ins Auge sticht? Etwas, das Ihr Euch natÃ¼rlich leisten kÃ¶nnt. Hehehe... die Magier sagen immer, dass meine Preise viel zu hoch wÃ¤ren, aber sie kÃ¶nnen es auch nicht so gut wie ich.~
+@24   = ~Nein. Ich werde zurÃ¼ckkommen. Bleibt einfach hier.~
 
-@25   = ~Ich hätte gerne die Halskette der vielen Geschosse.~
+@25   = ~Ich hÃ¤tte gerne die Halskette der vielen Geschosse.~
 
-@26   = ~Ich glaube, ein Grünsteinamulett wwäre sehr nützlich.~
+@26   = ~Ich glaube, ein GrÃ¼nsteinamulett wwÃ¤re sehr nÃ¼tzlich.~
 @27   = ~Ein Amulett der 5%igen Magieresistenz sticht mir ins Auge.~
 
 @28   = ~Mich interessiert das Amulett der 10%igen Magieresistenz.~
 @29   = ~Ich brauche ein Amulett der Macht.~
 
-@30   = ~Ein Amulett, welches vor Gift schützt, könnte nicht schaden.~
-@31   = ~+3 Rettungswürfe gegen Odemwaffen erscheinen mir sehr nützlich.~
+@30   = ~Ein Amulett, welches vor Gift schÃ¼tzt, kÃ¶nnte nicht schaden.~
+@31   = ~+3 RettungswÃ¼rfe gegen Odemwaffen erscheinen mir sehr nÃ¼tzlich.~
 
 @32   = ~+ 5 gegen Verwandlung ist gut.~
-@33   = ~Ich möchte das Amulett mit dem +2 Rettungswurf gegen Zaubersprüche.~
+@33   = ~Ich mÃ¶chte das Amulett mit dem +2 Rettungswurf gegen ZaubersprÃ¼che.~
 
 @34   = ~Bringt eine Halskette und Geld mit! Dann sind wir die besten Freunde!~
 

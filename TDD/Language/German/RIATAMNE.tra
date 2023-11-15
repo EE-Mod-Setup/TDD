@@ -1,4 +1,4 @@
-@0    = ~Entschuldigt mich, Ihr da! Könnt Ihr mir ein wenig Eurer Zeit schenken...~
+@0    = ~Entschuldigt mich, Ihr da! KÃ¶nnt Ihr mir ein wenig Eurer Zeit schenken...~
 @1    = ~Nennt Euer Anliegen.~
 
 @2    = ~Was wollt Ihr?~
@@ -7,13 +7,13 @@
 
 @4    = ~Meine Zeit ist kostbar. Ich habe nur noch wenig Zeit, bevor meine Seele komplett verschwunden ist.~
 
-@5    = ~Nun, ich gebe zu, dass ich verglichen mit den anderen Magiern hier ein ziemlicher Anfänger bin.~
+@5    = ~Nun, ich gebe zu, dass ich verglichen mit den anderen Magiern hier ein ziemlicher AnfÃ¤nger bin.~
 @6    = ~Ich wollte ihren Status haben... ihre Erfahrung. Daher habe ich ein wenig experimentiert.~
-@7    = ~Aber meine Unerfahrenheit war zu tiefgreifend... etwas lief schief bei meinen Experimenten! Und... Ich... ähh... Ich habe alle wichtigen Zaubersprüche vergessen. Nur an die weniger bedeutsamen Zauber kann ich mich erinnern.~
+@7    = ~Aber meine Unerfahrenheit war zu tiefgreifend... etwas lief schief bei meinen Experimenten! Und... Ich... Ã¤hh... Ich habe alle wichtigen ZaubersprÃ¼che vergessen. Nur an die weniger bedeutsamen Zauber kann ich mich erinnern.~
 @8    = ~Wie kann ich helfen?~
-@9    = ~Und was soll ich dann für Euch tun?~
-@10   = ~Ihr müsst ziemlich dumm sein. Ihr wollt offensichtlich, dass ich etwas für Euch tue. Um was handelt es sich?~
-@11   = ~Mit einer solch geringen Auswahl an Sprüchen werde ich nie die Aufmerksamkeit dieser Magier erlangen und einer ihrer Schüler werden... Ich muss mein Gedächtnis wieder erlangen!~
+@9    = ~Und was soll ich dann fÃ¼r Euch tun?~
+@10   = ~Ihr mÃ¼sst ziemlich dumm sein. Ihr wollt offensichtlich, dass ich etwas fÃ¼r Euch tue. Um was handelt es sich?~
+@11   = ~Mit einer solch geringen Auswahl an SprÃ¼chen werde ich nie die Aufmerksamkeit dieser Magier erlangen und einer ihrer SchÃ¼ler werden... Ich muss mein GedÃ¤chtnis wieder erlangen!~
 
 @12   = ~Wie kann man Euch heilen?~
 @13   = ~Verzeiht mir. Das ist Euer Problem und Eure Aufgabe, Euch selbst zu heilen.~
@@ -22,14 +22,14 @@
 
 @15   = ~Wo kann ich diese Bestandteile finden?~
 
-@16   = ~Ich werde sehen, was ich für Euch tun kann.~
-@17   = ~Sie sind nicht besonders selten. Ich würde sie ja gerne selbst besorgen, aber mein Hauptgedächtnis schwindet schnell... selbst mir die Strassen zu merken, fällt mir schon schwer. Ugh...~
+@16   = ~Ich werde sehen, was ich fÃ¼r Euch tun kann.~
+@17   = ~Sie sind nicht besonders selten. Ich wÃ¼rde sie ja gerne selbst besorgen, aber mein HauptgedÃ¤chtnis schwindet schnell... selbst mir die Strassen zu merken, fÃ¤llt mir schon schwer. Ugh...~
 
-@18   = ~Sehr schön. Wenn ich diese Gegenstände finde, werde ich sie Euch vorbei bringen.~
+@18   = ~Sehr schÃ¶n. Wenn ich diese GegenstÃ¤nde finde, werde ich sie Euch vorbei bringen.~
 
-@19   = ~Ich danke Euch! Ich werde genau hier warten... Ich möchte es nicht riskieren, mich zu verirren.~
-@20   = ~Bitte hört mich an! Es ist sehr dringend!~
-@21   = ~Na schön. Was habt Ihr zu sagen?~
+@19   = ~Ich danke Euch! Ich werde genau hier warten... Ich mÃ¶chte es nicht riskieren, mich zu verirren.~
+@20   = ~Bitte hÃ¶rt mich an! Es ist sehr dringend!~
+@21   = ~Na schÃ¶n. Was habt Ihr zu sagen?~
 @22   = ~Ich sagte nein! Seid Ihr dumm in der Birne? VERSCHWINDET! Habt Ihr das verstanden?~
 @23   = ~Ihr habt sie! R-richtig? Jetzt muss ich mich nur noch erinnern, wie man das Zeug anwendet...~
 
@@ -37,5 +37,5 @@
 
 @25   = ~Und wie sieht es jetzt mit einer kleinen Belohnung aus?~
 
-@26   = ~Oh, verzeiht mir... vielen herzlichen Dank. Nehmt dies als Zeichen meiner Anerkennung. Wieviel war das? 200 Goldstücke? Ich bin mir nicht sicher... nehmt es einfach.~
-@27   = ~Ich... äh... Ich glaube, ich verstehe. Dann werde ich mir wohl jemand anderen suchen müssen...~
+@26   = ~Oh, verzeiht mir... vielen herzlichen Dank. Nehmt dies als Zeichen meiner Anerkennung. Wieviel war das? 200 GoldstÃ¼cke? Ich bin mir nicht sicher... nehmt es einfach.~
+@27   = ~Ich... Ã¤h... Ich glaube, ich verstehe. Dann werde ich mir wohl jemand anderen suchen mÃ¼ssen...~

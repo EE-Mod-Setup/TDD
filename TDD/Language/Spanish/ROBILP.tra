@@ -1,21 +1,21 @@
-@0    = ~Habéis regresado. Venis en busca de un invocador capaz, ¿verdad?~
-@1    = ~En efecto, vuestra magia era muy apreciada y se hecha de menos, uníos a nosotros una vez más Robillard.~
-@2    = ~En vuestros sueños, invocador. Puedo lanzar mejores conjuros desde un pañuelo con mocos. Os sugeriría que intentéis con más ahínco el ganaros mi favor.~
-@3    = ~En verdad, no. Aunque, regresaré si cambio de parecer.~
-@4    = ~Lo siento, pero vuestras payasadas han sobrepasado mi nivel de tolerancia. Os dejaré antes de que me sienta obligado a tomar cartas en el asunto.~
-@5    = ~¿Qué es esto? ¿Debemos separarnos?~
+@0    = ~HabÃ©is regresado. Venis en busca de un invocador capaz, Â¿verdad?~
+@1    = ~En efecto, vuestra magia era muy apreciada y se hecha de menos, unÃ­os a nosotros una vez mÃ¡s Robillard.~
+@2    = ~En vuestros sueÃ±os, invocador. Puedo lanzar mejores conjuros desde un paÃ±uelo con mocos. Os sugerirÃ­a que intentÃ©is con mÃ¡s ahÃ­nco el ganaros mi favor.~
+@3    = ~En verdad, no. Aunque, regresarÃ© si cambio de parecer.~
+@4    = ~Lo siento, pero vuestras payasadas han sobrepasado mi nivel de tolerancia. Os dejarÃ© antes de que me sienta obligado a tomar cartas en el asunto.~
+@5    = ~Â¿QuÃ© es esto? Â¿Debemos separarnos?~
 @6    = ~Eso me temo, Robillard. En este momento no sois de ayuda.~
-@7    = ~No, creo que vuestras habilidades aún nos son enormemente necesarias.~
-@8    = ~Muy bien entonces, pero si cambiáis de parecer estaré esperando en los muelles.~
-@9    = ~Lo tendré en mente.~
-@10   = ~No hagáis eso. Aguardad aquí. Volveremos por vos si necesitamos vuestras habilidades.~
-@11   = ~Ah, que así sea entonces, <CHARNAME>. Continuemos.~
-@12   = ~Mi magia os ayudará si lo deseáis, amigo.~
-~Mi magia os ayudará si lo deseáis, amigo.~
-@13   = ~Excelente. Continuemos pues, ¿no?~
-@14   = ~Estoy seguro que así será. Vayámonos.~
-@15   = ~Si fuera vos, elegiría con mayor cuidado mis palabras. He enviado a muchos a la tumba.~
-@16   = ~Bah, no valéis la pena.~
-@17   = ~¿Y por qué no os fuisteis vos mismo?~
-@18   = ~Una amenaza. Hmpf. Muy bien... estábais advertido.~
-~Una amenaza. Hmpf. Muy bien... estábais advertida.~
+@7    = ~No, creo que vuestras habilidades aÃºn nos son enormemente necesarias.~
+@8    = ~Muy bien entonces, pero si cambiÃ¡is de parecer estarÃ© esperando en los muelles.~
+@9    = ~Lo tendrÃ© en mente.~
+@10   = ~No hagÃ¡is eso. Aguardad aquÃ­. Volveremos por vos si necesitamos vuestras habilidades.~
+@11   = ~Ah, que asÃ­ sea entonces, <CHARNAME>. Continuemos.~
+@12   = ~Mi magia os ayudarÃ¡ si lo deseÃ¡is, amigo.~
+~Mi magia os ayudarÃ¡ si lo deseÃ¡is, amigo.~
+@13   = ~Excelente. Continuemos pues, Â¿no?~
+@14   = ~Estoy seguro que asÃ­ serÃ¡. VayÃ¡monos.~
+@15   = ~Si fuera vos, elegirÃ­a con mayor cuidado mis palabras. He enviado a muchos a la tumba.~
+@16   = ~Bah, no valÃ©is la pena.~
+@17   = ~Â¿Y por quÃ© no os fuisteis vos mismo?~
+@18   = ~Una amenaza. Hmpf. Muy bien... estÃ¡bais advertido.~
+~Una amenaza. Hmpf. Muy bien... estÃ¡bais advertida.~

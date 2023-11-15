@@ -1,35 +1,35 @@
-@0    = ~Tengo que terminar estos formularios para mis hombres... todos en la guarnición han caido bajo alguna extraña enfermedad. Si queréis verme, tomad hora. No tengo tiempo para vagabundos ociosos.~
-@1    = ~Umm... tal vez no os hayáis dado cuenta aún, pero estáis muerto. Y vuestros hombres también han debido de morir hace tiempo.~
+@0    = ~Tengo que terminar estos formularios para mis hombres... todos en la guarniciÃ³n han caido bajo alguna extraÃ±a enfermedad. Si querÃ©is verme, tomad hora. No tengo tiempo para vagabundos ociosos.~
+@1    = ~Umm... tal vez no os hayÃ¡is dado cuenta aÃºn, pero estÃ¡is muerto. Y vuestros hombres tambiÃ©n han debido de morir hace tiempo.~
 @2    = ~Por supuesto. Lamento haberos molestado.~
-@3    = ~¿Habéis logrado encontrar alguna clase de cura?~
-@4    = ~¡No estoy muerto, y no toleraré que insultéis a mis hombres así! ¡Salid ahora mismo, vagabundo, no sea que pierda el control de mi ira!~
-~¡No estoy muerto, y no toleraré que insultéis a mis hombres así! ¡Salid ahora mismo, vagabunda, no sea que pierda el control de mi ira!~
-@5    = ~¡Calmáos, hombre! ¡Mirad dónde estáis! ¡Estáis en un antiguo castillo abandonado que ahora flota casi casi a un kilómetro sobre la superficie!~
-@6    = ~Lo siento. Me iré ahora.~
-@7    = ~...Quizás... Quizás tengáis razón. Ahora que lo pienso, nunca antes había estado aquí. Todo está tan... oscuro. Vagabundo, si no estoy en mi guarnición, ¿dónde estoy?~
-~...Quizás... Quizás tengáis razón. Ahora que lo pienso, nunca antes había estado aquí. Todo está tan... oscuro. Vagabunda, si no estoy en mi guarnición, ¿dónde estoy?~
-@8    = ~No lo sé.~
-@9    = ~Estáis en un castillo flotante a pocos días de Athkatla. La plaga que está asolando la tierra debió haberos matado a vos y a vuestros hombres.~
-@10   = ~Pero si yo estoy aquí, ¿donde están mis hombres? Si todos hemos muerto, ¿¡por qué soy el único que está aquí!?~
-@11   = ~Tal vez las manifestaciones que vagan por estos vestíbulos sean vuestros hombres.~
-@12   = ~No.... No, no puede ser... por favor... por favor, sacadme de aquí. Esto está demasiado oscuro.~
-@13   = ~Y... si encontráis a mis hombres, liberadlos también. Ellos no desearían permanecer aquí.~
-@14   = ~Veré lo que puedo hacer.~
-@15   = ~No os liberaré ni a vos ni a vuestros hombres a menos que me seáis de provecho. Esperad aquí, y si conseguís liberaros, consideráos afortunado.~
-@16   = ~La respuesta es no, vagabundo. No tengo más tiempo para vuestras preguntas. Dejadme ahora o mis guardias tendrán que hacerlo.~
-~La respuesta es no, vagabunda. No tengo más tiempo para vuestras preguntas. Dejadme ahora o mis guardias tendrán que hacerlo.~
-@17   = ~¿Qué queréis?~
+@3    = ~Â¿HabÃ©is logrado encontrar alguna clase de cura?~
+@4    = ~Â¡No estoy muerto, y no tolerarÃ© que insultÃ©is a mis hombres asÃ­! Â¡Salid ahora mismo, vagabundo, no sea que pierda el control de mi ira!~
+~Â¡No estoy muerto, y no tolerarÃ© que insultÃ©is a mis hombres asÃ­! Â¡Salid ahora mismo, vagabunda, no sea que pierda el control de mi ira!~
+@5    = ~Â¡CalmÃ¡os, hombre! Â¡Mirad dÃ³nde estÃ¡is! Â¡EstÃ¡is en un antiguo castillo abandonado que ahora flota casi casi a un kilÃ³metro sobre la superficie!~
+@6    = ~Lo siento. Me irÃ© ahora.~
+@7    = ~...QuizÃ¡s... QuizÃ¡s tengÃ¡is razÃ³n. Ahora que lo pienso, nunca antes habÃ­a estado aquÃ­. Todo estÃ¡ tan... oscuro. Vagabundo, si no estoy en mi guarniciÃ³n, Â¿dÃ³nde estoy?~
+~...QuizÃ¡s... QuizÃ¡s tengÃ¡is razÃ³n. Ahora que lo pienso, nunca antes habÃ­a estado aquÃ­. Todo estÃ¡ tan... oscuro. Vagabunda, si no estoy en mi guarniciÃ³n, Â¿dÃ³nde estoy?~
+@8    = ~No lo sÃ©.~
+@9    = ~EstÃ¡is en un castillo flotante a pocos dÃ­as de Athkatla. La plaga que estÃ¡ asolando la tierra debiÃ³ haberos matado a vos y a vuestros hombres.~
+@10   = ~Pero si yo estoy aquÃ­, Â¿donde estÃ¡n mis hombres? Si todos hemos muerto, Â¿Â¡por quÃ© soy el Ãºnico que estÃ¡ aquÃ­!?~
+@11   = ~Tal vez las manifestaciones que vagan por estos vestÃ­bulos sean vuestros hombres.~
+@12   = ~No.... No, no puede ser... por favor... por favor, sacadme de aquÃ­. Esto estÃ¡ demasiado oscuro.~
+@13   = ~Y... si encontrÃ¡is a mis hombres, liberadlos tambiÃ©n. Ellos no desearÃ­an permanecer aquÃ­.~
+@14   = ~VerÃ© lo que puedo hacer.~
+@15   = ~No os liberarÃ© ni a vos ni a vuestros hombres a menos que me seÃ¡is de provecho. Esperad aquÃ­, y si conseguÃ­s liberaros, considerÃ¡os afortunado.~
+@16   = ~La respuesta es no, vagabundo. No tengo mÃ¡s tiempo para vuestras preguntas. Dejadme ahora o mis guardias tendrÃ¡n que hacerlo.~
+~La respuesta es no, vagabunda. No tengo mÃ¡s tiempo para vuestras preguntas. Dejadme ahora o mis guardias tendrÃ¡n que hacerlo.~
+@17   = ~Â¿QuÃ© querÃ©is?~
 @18   = ~Oh, nada.~
-@19   = ~Estoy aquí para liberaros de este lugar. Tengo la reliquia.~
-@20   = ~He liberado a vuestros soldados, pero no os liberaré a vos. Adiós.~
-@21   = ~He liberado a vuestros soldados, y estoy aquí para hacer lo propio con vos.~
-@22   = ~¿Qué ha sido de mis soldados? ¿Los encontrásteis?~
-@23   = ~Los encontré, pero no deseo liberarlos.~
-@24   = ~Todos estaban lloriquenado, así que los dejé solos para que se pudrieran.~
-@25   = ~No os preocupéis pos ellos. Sólo quiero liberaros a vos.~
-@26   = ~Sois un demonio entonces. No me iré hasta que mis hombres estén libres.~
-@27   = ~No seré liberado hasta que sepa que mis soldados están a salvo.~
-@28   = ~Al menos lo habéis hecho con mis soldados. Si eso es todo, me quedaré aquí. Por toda la eternidad, al parecer. Podéis pudriros en el infierno al que me estáis enviando al no liberarme.~
-@29   = ~¡Sois un salvador! ¡Por favor, tocad mi brazo con la reliquia!~
-@30   = ~Aguardad sólo un minuto.~
+@19   = ~Estoy aquÃ­ para liberaros de este lugar. Tengo la reliquia.~
+@20   = ~He liberado a vuestros soldados, pero no os liberarÃ© a vos. AdiÃ³s.~
+@21   = ~He liberado a vuestros soldados, y estoy aquÃ­ para hacer lo propio con vos.~
+@22   = ~Â¿QuÃ© ha sido de mis soldados? Â¿Los encontrÃ¡steis?~
+@23   = ~Los encontrÃ©, pero no deseo liberarlos.~
+@24   = ~Todos estaban lloriquenado, asÃ­ que los dejÃ© solos para que se pudrieran.~
+@25   = ~No os preocupÃ©is pos ellos. SÃ³lo quiero liberaros a vos.~
+@26   = ~Sois un demonio entonces. No me irÃ© hasta que mis hombres estÃ©n libres.~
+@27   = ~No serÃ© liberado hasta que sepa que mis soldados estÃ¡n a salvo.~
+@28   = ~Al menos lo habÃ©is hecho con mis soldados. Si eso es todo, me quedarÃ© aquÃ­. Por toda la eternidad, al parecer. PodÃ©is pudriros en el infierno al que me estÃ¡is enviando al no liberarme.~
+@29   = ~Â¡Sois un salvador! Â¡Por favor, tocad mi brazo con la reliquia!~
+@30   = ~Aguardad sÃ³lo un minuto.~
 @31   = ~De acuerdo, aqui vamos...~

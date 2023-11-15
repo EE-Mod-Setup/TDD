@@ -1,13 +1,13 @@
-@0    = ~¡Vaya, buenas! ¡Parecéis alguien en busca de información! ¿Como si quisiérais hacer una visita excepcional al Salón del Conocimiento?~
-@1    = ~(Gruñido) Mi no gustar listos. ¡Mi DAR TORTAZO! Jajaja. Dar buen tortazo.~
-@2    = ~Oh, sí. Los famosos muros del Salón del Conocimiento. ¡Me haría feliz el echar un vistazo por allí!~
-~Ah, sí. Los famosos muros del Salón del Conocimiento. ¡Me haría feliz el echar un vistazo por allí!~
-@3    = ~No tengo tiempo de probar otra de esas tampas para turistas. Si la oferta aún se mantiene cuando vuelva, puede que la acepte. Que os vaya bien.~
-@4    = ~Umm... si... tortazo. Voy a estar moviendome por... aquí.~
-@5    = ~¡Excelente! ¿Estáis listo para partir ahora? La caravana que tomaréis saldrá en pocos días si ellos no consiguen algunos pasajeros más. ¡Tengo otras personas que se están muriendo por ir allí!~
-~¡Excelente! ¿Estáis lista para partir ahora? La caravana que tomaréis saldrá en pocos días si ellos no consiguen algunos pasajeros más. ¡Tengo otras personas que se están muriendo por ir allí!~
-@6    = ~Sí, sí. Estoy listo. Vamos.~
-~Sí, sí. Estoy lista. Vamos.~
+@0    = ~Â¡Vaya, buenas! Â¡ParecÃ©is alguien en busca de informaciÃ³n! Â¿Como si quisiÃ©rais hacer una visita excepcional al SalÃ³n del Conocimiento?~
+@1    = ~(GruÃ±ido) Mi no gustar listos. Â¡Mi DAR TORTAZO! Jajaja. Dar buen tortazo.~
+@2    = ~Oh, sÃ­. Los famosos muros del SalÃ³n del Conocimiento. Â¡Me harÃ­a feliz el echar un vistazo por allÃ­!~
+~Ah, sÃ­. Los famosos muros del SalÃ³n del Conocimiento. Â¡Me harÃ­a feliz el echar un vistazo por allÃ­!~
+@3    = ~No tengo tiempo de probar otra de esas tampas para turistas. Si la oferta aÃºn se mantiene cuando vuelva, puede que la acepte. Que os vaya bien.~
+@4    = ~Umm... si... tortazo. Voy a estar moviendome por... aquÃ­.~
+@5    = ~Â¡Excelente! Â¿EstÃ¡is listo para partir ahora? La caravana que tomarÃ©is saldrÃ¡ en pocos dÃ­as si ellos no consiguen algunos pasajeros mÃ¡s. Â¡Tengo otras personas que se estÃ¡n muriendo por ir allÃ­!~
+~Â¡Excelente! Â¿EstÃ¡is lista para partir ahora? La caravana que tomarÃ©is saldrÃ¡ en pocos dÃ­as si ellos no consiguen algunos pasajeros mÃ¡s. Â¡Tengo otras personas que se estÃ¡n muriendo por ir allÃ­!~
+@6    = ~SÃ­, sÃ­. Estoy listo. Vamos.~
+~SÃ­, sÃ­. Estoy lista. Vamos.~
 @7    = ~No, decidles que me esperen. Debo prepararme antes de que salir.~
-@8    = ~Claro, señor. ¡Muy bien puedo estar aquí cuando regreséis!~
-~Claro, señora. ¡Muy bien puedo estar aquí cuando regreséis!~
+@8    = ~Claro, seÃ±or. Â¡Muy bien puedo estar aquÃ­ cuando regresÃ©is!~
+~Claro, seÃ±ora. Â¡Muy bien puedo estar aquÃ­ cuando regresÃ©is!~

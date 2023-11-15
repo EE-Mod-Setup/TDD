@@ -1,5 +1,5 @@
-@0     = ~Hum ? Qui êtes-vous ?~
+@0     = ~Hum ? Qui Ãªtes-vous ?~
 @1     = ~Je suis <CHARNAME>.~
 @2     = ~Qui je suis n'a pas d'importance.~
-@3     = ~Alors très bien. J'ai entendu parler de votre réputation et ai conclu qu'il y a une possibilité que vous soyez en mesure de nous aider. Allez parler au capitaine pour plus de détails.~
-@4     = ~Parlez au capitaine pour plus de détails sur l'extermination.~
+@3     = ~Alors trÃ¨s bien. J'ai entendu parler de votre rÃ©putation et ai conclu qu'il y a une possibilitÃ© que vous soyez en mesure de nous aider. Allez parler au capitaine pour plus de dÃ©tails.~
+@4     = ~Parlez au capitaine pour plus de dÃ©tails sur l'extermination.~
